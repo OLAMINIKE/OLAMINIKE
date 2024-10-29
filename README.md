@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OLAMINIKE
+- 👋 Hi, I’m OLAMINIKE
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
